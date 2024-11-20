@@ -32,15 +32,15 @@ If you have trouble finding the building or the room on the first day of trainin
 * At the airport, and at some SEPTA train stations, you can purchase a SEPTA key card. There are a variety of fare options that can be loaded onto a key card for use on public transportation. SEPTA also accepts cash for travel on any of its transit services.
 * Please refer to the [SEPTA website](https://www5.septa.org/travel/) for more information. (**Note:** The [SEPTA trip planner](https://beta-plan.septa.org/#/) may be a helpful tool if you plan to travel around the city during your stay.)
 
-**Other**
-
-* Many of the hotels in the area are within walking distance, or are a short Uber or Lyft ride, to One Bala Plaza.
-
 #### Nearby Lodging
 
-The following hotels are within 1 mile of the workshop location.
+These hotels are within walking distance, or are a short Uber or Lyft ride, to One Bala Plaza.
 
-* [Courtyard by Marriott Philadelphia City Avenue](https://www.marriott.com/en-us/hotels/phlav-courtyard-philadelphia-city-avenue/overview/)
+ALSF receives a discounted rate at the **Courtyard by Marriott Philadelphia City Avenue**. 
+[Use this link to book a reservation](https://www.marriott.com/event-reservations/reservation-link.mi?id=1687786457883&key=CORP&app=resvlink) at the discounted rate.
+
+More hotels located within 1 mile of the workshop:
+
 * [Hilton Philadelphia City Avenue](https://www.hilton.com/en/hotels/phlphhf-hilton-philadelphia-city-avenue/)
 * [Homewood Suites by Hilton Philadelphia-City Avenue](https://www.hilton.com/en/hotels/phlcahw-homewood-suites-philadelphia-city-avenue)
 * [Residence Inn Philadelphia Bala Cynwyd](https://www.marriott.com/en-us/hotels/phlrb-residence-inn-philadelphia-bala-cynwyd/overview/)
@@ -51,11 +51,10 @@ Travel reimbursement up to $500 is available for participants who reside more th
 If you requested travel reimbursement, you will receive a reimbursement form after the workshop ends.
 Payments are typically processed within a few weeks.
 You are responsible for making your own travel and lodging arrangements.
-If you require travel reimbursement of more than $500 to attend, please email training@ccdatalab.org.
-We will evaluate such requests on a case-by-case basis.
 
 To qualify for reimbursement:
 
+* You must be a childhood cancer researcher.
 * You will need to have included this request in your application.
 * You will be required to provide documentation of travel expenses, such as transportation and lodging receipts, and to fill out a reimbursement form after the workshop ends.
 * You must attend the entirety of the workshop.
@@ -64,7 +63,5 @@ To qualify for reimbursement:
 
 Alex's Lemonade Stand Foundation's Childhood Cancer Data Lab will comply with any governmental requirements related to health and safety.
 We encourage workshop participants to adhere to US governmental guidance.
-You may wish to review the [CDC COVID-19 by County guidance](https://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html) when planning for workshop attendance.
-
 If you are feeling sick, please do not attend the workshop.
 We will not withhold your deposit if you cannot attend because you are sick.
