@@ -63,8 +63,5 @@ To qualify for reimbursement:
 
 Alex's Lemonade Stand Foundation's Childhood Cancer Data Lab will comply with any governmental requirements related to health and safety.
 We encourage workshop participants to adhere to US governmental guidance.
-You may wish to review the [Philadelphia, Pennsylvania COVID-19 community level](https://covid.cdc.gov/covid-data-tracker/#trends_weeklydeaths_select_00) when planning for workshop attendance.
-
-
 If you are feeling sick, please do not attend the workshop.
 We will not withhold your deposit if you cannot attend because you are sick.
