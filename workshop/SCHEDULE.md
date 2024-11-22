@@ -3,7 +3,7 @@ title: Advanced scRNA-seq Workshop Schedule
 nav_title: Schedule
 ---
 
-The planned schedule for the Jan 31-Feb 2, 2023 Data Lab Training Workshop appears below.
+The planned schedule for the December 10-12, 2024 Data Lab Training Workshop appears below.
 
 | Time      | Topic                                                                                                                                                                                                        |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
