@@ -43,14 +43,14 @@ The planned schedule for the December 10-12, 2024 Data Lab Training Workshop app
 |           |
 | **Day 3** | **2024-12-12**
 | 9:00 AM   | Questions and Review
-| 9:30 AM   | Pathway analysis
-|           | Slides
+| 9:30 AM   | Pathway Analysis
+|           | [Pathway Analysis Slides (PDF)](../slides/2024-12-12_pathway-analysis.pdf)
 |           | Instruction notebook: Gene-set enrichment analysis (GSEA)
 | 11:00 AM  | *Coffee break*
-| 11:15 AM  | GSEA, continued
+| 11:15 AM  | Instruction notebook: AUCell
 | 12:30 PM  | *Lunch*
 | 1:30 PM   | Exercises, Questions, and Independent Projects
-|           | Exercise: GSEA
+|           | Exercise: AUCell
 |           | [Resources for consultation sessions](./workshop-resources.md)
 | 3:00 PM   | Participant Presentations!
 | 4:00 PM   | *Adjourn*
