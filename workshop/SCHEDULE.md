@@ -16,7 +16,7 @@ The planned schedule for the December 10-12, 2024 Data Lab Training Workshop app
 | 11:30 AM  | Introduction/Refresher to Single-cell Analysis, continued
 | 12:15 PM  | *Lunch*
 | 1:15 PM   | Integrating scRNA-seq Experiments
-|           | Slides
+|           | [Integration slides (PDF)](../slides/2024-12-10_integration.pdf)
 |           | Instruction notebook
 | 2:30 PM   | *Coffee break*
 | 2:45 PM   | Integrating scRNA-seq Experiments, continued
